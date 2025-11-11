@@ -1,12 +1,1 @@
-streamlit
-streamlit_option_menu
-numpy
-pandas
-scikit-learn
-opencv-python-headless
-fpdf2
-psutil
-Pillow
-python-dateutil
-requests
-joblib
+
